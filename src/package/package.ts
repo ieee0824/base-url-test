@@ -1,4 +1,4 @@
-import Child from "package/child/child"
+import Child from "./child/child"
 
 const Hoge = Child.Foo
 export default Hoge

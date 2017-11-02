@@ -1,3 +1,3 @@
-import Hoge from "package/package"
+import Hoge from "./package/package"
 
 Hoge
