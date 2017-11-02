@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "lib": [
+            "es2017"
+        ],
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "baseUrl": "./src",
+        "outDir": "./build"
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}
